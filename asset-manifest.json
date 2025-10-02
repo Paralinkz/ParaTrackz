@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/ParaTrackz/static/js/main.94ed4b55.js",
-    "index.html": "/ParaTrackz/index.html",
-    "main.94ed4b55.js.map": "/ParaTrackz/static/js/main.94ed4b55.js.map"
+    "main.js": "/investigation-tools/static/js/main.94ed4b55.js",
+    "index.html": "/investigation-tools/index.html",
+    "main.94ed4b55.js.map": "/investigation-tools/static/js/main.94ed4b55.js.map"
   },
   "entrypoints": [
     "static/js/main.94ed4b55.js"
