@@ -2,7 +2,7 @@
   "name": "investigation-tools",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://Paralinkx.github.io/ParaTrackz",
+  "homepage": "https://Paralinkx.github.io/investigation-tools",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
