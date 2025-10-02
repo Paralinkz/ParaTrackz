@@ -396,8 +396,8 @@ const InvestigationTools = () => {
           {[
             { id: 'sessions', label: 'Sessions', icon: <FolderOpen size={20} /> },
             { id: 'notes', label: 'Field Notes', icon: <FileText size={20} /> },
-            { id: 'evp', label: 'EVP Recording', icon: <Mic size={20} /> }
-            { id: 'photos', label: 'Photo Evidence', icon: <Camera size={20} /> },          
+            { id: 'evp', label: 'EVP Recording', icon: <Mic size={20} /> },
+            { id: 'photos', label: 'Photo Evidence', icon: <Camera size={20} /> }         
           ].map(tab => (
             <button
               key={tab.id}
