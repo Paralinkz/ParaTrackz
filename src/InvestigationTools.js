@@ -302,9 +302,9 @@ const InvestigationTools = () => {
             WebkitTextFillColor: 'transparent',
             marginBottom: '10px',
             fontWeight: 'bold'
-          }}>Investigation Tools</h1>
+          }}>Investigation Manager</h1>
           <p style={{ color: '#94a3b8', fontSize: '1.1rem' }}>
-            Document your paranormal investigation with professional tools
+            Track and preserve evidence of your investigations.
           </p>
           {currentLocation && (
             <div style={{ 
@@ -396,8 +396,8 @@ const InvestigationTools = () => {
           {[
             { id: 'sessions', label: 'Sessions', icon: <FolderOpen size={20} /> },
             { id: 'notes', label: 'Field Notes', icon: <FileText size={20} /> },
-            { id: 'photos', label: 'Photo Evidence', icon: <Camera size={20} /> },
             { id: 'evp', label: 'EVP Recording', icon: <Mic size={20} /> }
+            { id: 'photos', label: 'Photo Evidence', icon: <Camera size={20} /> },          
           ].map(tab => (
             <button
               key={tab.id}
